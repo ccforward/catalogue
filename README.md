@@ -4,7 +4,7 @@
 
 ## 2、仓库
 * 自动刷新的chrome插件 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)
-* KISSY 组件
+* KISSY 组件(支持到KISSY1.3的版本)
 	* 模拟PC的console进行debug [KMobileConsole](https://github.com/ccforward/KMobileConsole)
 	* 快捷键组件 [KissKey](https://github.com/ccforward/KissKey)
 	* 表格排序组件(不再维护) [KSortTable](https://github.com/ccforward/KSortTable)
