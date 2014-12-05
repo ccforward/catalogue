@@ -1,5 +1,8 @@
 #Github目录
 =========
+## [Blog](https://github.com/ccforward/cc/issues?q=is%3Aopen)
+=========
+
 ## 仓库
 * 自动刷新的chrome插件 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)
 * KISSY 组件
