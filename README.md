@@ -23,6 +23,6 @@
 * [封装shake事件](https://github.com/ccforward/cc/tree/master/shake)
 
 ### 工具
-* [git配置文件](https://github.com/ccforward/cc/tree/master/git)
+* [git简要笔记](https://github.com/ccforward/cc/tree/master/git)
 
 
