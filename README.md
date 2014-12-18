@@ -21,6 +21,10 @@
 
 ### HTML5
 * [封装shake事件](https://github.com/ccforward/cc/tree/master/shake)
+* [devicemotion和deviceorientation事件](https://github.com/ccforward/ccforward.github.io/tree/master/demos/ios)
+  [网页指南针demo(手机打开)](http://ccforward.github.io/demos/ios/compass.html)
+* [模拟ios7的视差](https://github.com/ccforward/ccforward.github.io/blob/master/demos/ios/parallax.html)
+  [视差demo(手机打开)](http://ccforward.github.io/demos/ios/parallax.html)
 
 ### 工具
 * [Git笔记](https://github.com/ccforward/cc/tree/master/git)
