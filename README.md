@@ -28,5 +28,6 @@
 
 ### 工具
 * [Git笔记](https://github.com/ccforward/cc/tree/master/git)
+* [常用bash](https://github.com/ccforward/cc/tree/master/bash)
 
 
