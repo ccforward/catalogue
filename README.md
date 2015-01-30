@@ -18,6 +18,7 @@
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
+* [sticky](http://ccforward.github.io/demos/sticky/index.html)
 
 ### HTML5
 * [封装shake事件](https://github.com/ccforward/cc/tree/master/shake)
@@ -25,6 +26,7 @@
   [网页指南针demo(手机打开)](http://ccforward.github.io/demos/ios/compass.html)
 * [模拟ios7的视差](https://github.com/ccforward/ccforward.github.io/blob/master/demos/ios/parallax.html)
   [视差demo(手机打开)](http://ccforward.github.io/demos/ios/parallax.html)
+* [canvas七巧板](http://ccforward.github.io/demos/canvas/tangram.html)
 
 ### 工具
 * [Git笔记](https://github.com/ccforward/cc/tree/master/git)
