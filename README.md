@@ -1,6 +1,6 @@
 #Github目录
 
-## 1、技术博客：[戳进去](https://github.com/ccforward/cc/issues?q=is%3Aopen)
+## 1、Blog：[戳这儿](https://github.com/ccforward/cc/issues?q=is%3Aopen)
 
 ## 2、仓库
 * 自动刷新的chrome插件 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)  
