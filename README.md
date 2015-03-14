@@ -15,6 +15,7 @@
 ### JS
 * [URL分析](https://github.com/ccforward/cc/tree/master/URLParse)
 * [RGB颜色转换为HEX颜色](https://github.com/ccforward/cc/tree/master/RGB2HEX)
+* [promise规范简单实现](https://github.com/ccforward/cc/tree/master/promise)
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
