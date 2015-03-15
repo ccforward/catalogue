@@ -29,7 +29,8 @@
   [视差demo(手机打开)](http://ccforward.github.io/demos/ios/parallax.html)
 * [canvas七巧板](http://ccforward.github.io/demos/canvas/tangram.html)
 
-### 工具
+### 其他
+* [Git自动推送shell脚本](https://github.com/ccforward/cc/blob/master/git/autoPush.sh)
 * [Git笔记](https://github.com/ccforward/cc/tree/master/git)
 * [常用bash](https://github.com/ccforward/cc/blob/master/bash/bash.sh)
 
