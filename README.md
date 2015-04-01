@@ -18,6 +18,7 @@
 * [promise规范简单实现](https://github.com/ccforward/cc/tree/master/promise)
 * [移动端模拟console的js工具](https://github.com/ccforward/cc/tree/master/mobileConsole)
 * [获取服务器时间 & 倒计时](https://github.com/ccforward/cc/tree/master/countdown)
+* [简单前后日期计算类](https://github.com/ccforward/cc/tree/master/date)
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
