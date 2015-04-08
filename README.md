@@ -3,8 +3,9 @@
 ## 1、Blog：[戳这儿](https://github.com/ccforward/cc/issues?q=is%3Aopen)
 
 ## 2、仓库
-* 自动刷新的chrome插件 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)  
+* 自动刷新的chrome扩展 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)  
   [Chrome 市场地址](https://chrome.google.com/webstore/detail/auto-fresh/kpmibidobilopnejmgmlihijhlmdacmc)
+* 修改请求HTTP头的chrome扩展(alpha版) [C-Header](https://github.com/ccforward/C-Header)
 * KISSY 组件(支持到KISSY1.3的版本)
 	* 模拟PC的console进行debug [KMobileConsole](https://github.com/ccforward/KMobileConsole)
 	* 快捷键组件 [KissKey](https://github.com/ccforward/KissKey)
