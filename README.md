@@ -6,7 +6,7 @@
 * 自动刷新的chrome扩展 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)  
   [Chrome 市场地址](https://chrome.google.com/webstore/detail/auto-fresh/kpmibidobilopnejmgmlihijhlmdacmc)
 * 修改请求HTTP头的chrome扩展(beta版) [C-Header](https://github.com/ccforward/C-Header)  
-  [Chrome 市场地址](https://chrome.google.com/webstore/detail/auto-fresh/kpmibidobilopnejmgmlihijhlmdacmc)
+  [Chrome 市场地址](https://chrome.google.com/webstore/detail/c-header/cpkhilpjaiopicjdglhldbgamilgegnd)
 * KISSY 组件(支持到KISSY1.3的版本)
 	* 模拟PC的console进行debug [KMobileConsole](https://github.com/ccforward/KMobileConsole)
 	* 快捷键组件 [KissKey](https://github.com/ccforward/KissKey)
