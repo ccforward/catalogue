@@ -39,5 +39,6 @@
 * [Git自动推送shell脚本](https://github.com/ccforward/cc/blob/master/git/autoPush.sh)
 * [Git笔记](https://github.com/ccforward/cc/tree/master/git)
 * [常用bash](https://github.com/ccforward/cc/blob/master/bash/bash.sh)
+* [php-fpm脚本](https://github.com/ccforward/cc/blob/master/php-fpm/php-fpm.sh)
 
 
