@@ -35,7 +35,9 @@
 * [模拟ios7的视差](https://github.com/ccforward/ccforward.github.io/blob/master/demos/ios/parallax.html)
   [视差demo(手机打开)](http://ccforward.github.io/demos/ios/parallax.html)
 * [canvas七巧板](http://ccforward.github.io/demos/canvas/tangram.html)
-* [HTML5调用摄像头拍照](https://github.com/ccforward/cc/tree/master/HTML5_camera)
+* [HTML5调用摄像头拍照](https://github.com/ccforward/cc/tree/master/HTML5_camera)  
+  [demo](http://ccforward.github.io/demos/webrtc/camera.html)
+* [WebRTC的demo](http://ccforward.github.io/demos/webrtc/index.html)
 
 ### 其他
 * [Git自动推送shell脚本](https://github.com/ccforward/cc/blob/master/git/autoPush.sh)
