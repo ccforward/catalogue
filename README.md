@@ -21,6 +21,7 @@
 * [移动端模拟console的js工具](https://github.com/ccforward/cc/tree/master/mobileConsole)
 * [获取服务器时间 & 倒计时](https://github.com/ccforward/cc/tree/master/countdown)
 * [简单前后日期计算类](https://github.com/ccforward/cc/tree/master/date)
+* [requestAnimationFrame](https://github.com/ccforward/cc/blob/master/css3/requestAnimationFrame.js)
 * [20行代码的简单模板引擎](https://github.com/ccforward/cc/blob/master/simple-template/index.js)
 
 ### CSS
