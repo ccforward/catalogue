@@ -23,6 +23,7 @@
 * [简单前后日期计算类](https://github.com/ccforward/cc/tree/master/date)
 * [requestAnimationFrame](https://github.com/ccforward/cc/blob/master/css3/requestAnimationFrame.js)
 * [20行代码的简单模板引擎](https://github.com/ccforward/cc/blob/master/simple-template/index.js)
+* [Node.js批量下载文件](https://github.com/ccforward/cc/blob/master/download/down.js)
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
@@ -45,5 +46,5 @@
 * [Git笔记](https://github.com/ccforward/cc/tree/master/git)
 * [常用bash](https://github.com/ccforward/cc/blob/master/bash/bash.sh)
 * [php-fpm脚本](https://github.com/ccforward/cc/blob/master/php-fpm/php-fpm.sh)
-
+* [ruby批量下载文件](https://github.com/ccforward/cc/blob/master/download/down.rb)
 
