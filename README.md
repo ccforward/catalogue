@@ -26,11 +26,15 @@
 * [Node.js批量下载文件](https://github.com/ccforward/cc/blob/master/download/down.js)
 * [simple jQuery-bootstrap分页组件](https://github.com/ccforward/cc/blob/master/pagination/pagination.js)
 * [HTTP/2 + Node.js](https://github.com/ccforward/cc/blob/master/h2-node)
+* [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
 * [sticky](http://ccforward.github.io/demos/css/sticky/index.html)
 * [CSS Reset](https://github.com/ccforward/cc/blob/master/cssreset/index.css)
+* [文字下划线](http://ccforward.github.io/css-secrets/underline/index.html)
+* [画个梯形](http://ccforward.github.io/css-secrets/trapezoid/index.html)
+* [毛玻璃](http://ccforward.github.io/css-secrets/frosted-glass/index.html)
 
 ### HTML5
 * [封装shake事件](https://github.com/ccforward/cc/tree/master/shake)
