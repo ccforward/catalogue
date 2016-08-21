@@ -12,6 +12,7 @@
 	* 快捷键组件 [KissKey](https://github.com/ccforward/KissKey)
 	* 表格排序组件(不再维护) [KSortTable](https://github.com/ccforward/KSortTable)
 	* input输入过滤组件(不再维护) [inputFilter](https://github.com/ccforward/inputFilter)
+* [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
 
 ## 3、代码库
 ### JS
@@ -26,7 +27,7 @@
 * [Node.js批量下载文件](https://github.com/ccforward/cc/blob/master/download/down.js)
 * [simple jQuery-bootstrap分页组件](https://github.com/ccforward/cc/blob/master/pagination/pagination.js)
 * [HTTP/2 + Node.js](https://github.com/ccforward/cc/blob/master/h2-node)
-* [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
+* [vue-range组件(已发布到npm)](https://github.com/ccforward/cc/tree/master/vue-range)
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
