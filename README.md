@@ -13,6 +13,7 @@
 	* 表格排序组件(不再维护) [KSortTable](https://github.com/ccforward/KSortTable)
 	* input输入过滤组件(不再维护) [inputFilter](https://github.com/ccforward/inputFilter)
 * [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
+* [知乎日报爬虫 Node.js+Vue.js](https://github.com/ccforward/zhihu)
 
 ## 3、代码库
 ### JS
