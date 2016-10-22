@@ -3,6 +3,12 @@
 ## 1、Blog：[戳这儿](https://github.com/ccforward/cc/issues?q=is%3Aopen)
 
 ## 2、仓库
+* 日期计算模块，主要用于知乎日报爬虫项目 [date-calc](https://github.com/ccforward/date-calc)  
+  [npm地址](https://www.npmjs.com/package/date-calc)
+* 自定义事件库 for Broswer & Node.js [EventFire](https://github.com/ccforward/EventFire)  
+  [npm地址](https://www.npmjs.com/package/EventFire)
+* [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
+* [知乎日报爬虫 Node.js+Vue.js](https://github.com/ccforward/zhihu)
 * 自动刷新的chrome扩展 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)  
   [Chrome 市场地址](https://chrome.google.com/webstore/detail/auto-fresh/kpmibidobilopnejmgmlihijhlmdacmc)
 * 修改请求HTTP头的chrome扩展(beta版) [C-Header](https://github.com/ccforward/C-Header)  
@@ -12,8 +18,6 @@
 	* 快捷键组件 [KissKey](https://github.com/ccforward/KissKey)
 	* 表格排序组件(不再维护) [KSortTable](https://github.com/ccforward/KSortTable)
 	* input输入过滤组件(不再维护) [inputFilter](https://github.com/ccforward/inputFilter)
-* [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
-* [知乎日报爬虫 Node.js+Vue.js](https://github.com/ccforward/zhihu)
 
 ## 3、代码库
 ### JS
