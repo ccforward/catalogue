@@ -7,6 +7,10 @@
   [npm地址](https://www.npmjs.com/package/date-calc)
 * 自定义事件库 for Broswer & Node.js [EventFire](https://github.com/ccforward/EventFire)  
   [npm地址](https://www.npmjs.com/package/EventFire)
+* [vue 懒加载组件](https://github.com/ccforward/vue-lazy-image)  
+  [npm地址](https://www.npmjs.com/package/vue-lazy-image)
+* [vue-range 滑块组件](https://github.com/ccforward/cc/tree/master/vue-range)  
+  [npm地址](https://www.npmjs.com/package/vue-range)
 * [上传到七牛的chrome扩展+node.js接口](https://github.com/ccforward/qiniu)
 * [知乎日报爬虫 Node.js+Vue.js](https://github.com/ccforward/zhihu)
 * 自动刷新的chrome扩展 [Auto-Refresh](https://github.com/ccforward/Auto-Refresh)  
@@ -32,7 +36,7 @@
 * [Node.js批量下载文件](https://github.com/ccforward/cc/blob/master/download/down.js)
 * [simple jQuery-bootstrap分页组件](https://github.com/ccforward/cc/blob/master/pagination/pagination.js)
 * [HTTP/2 + Node.js](https://github.com/ccforward/cc/blob/master/h2-node)
-* [vue-range组件(已发布到npm)](https://github.com/ccforward/cc/tree/master/vue-range)
+
 
 ### CSS
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
