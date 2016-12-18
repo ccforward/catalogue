@@ -27,6 +27,7 @@
 
 ## 3、代码库
 ### JS
+* [可联机玩的五子棋](https://github.com/ccforward/cc/tree/master/chess)
 * [Vue.js 五子棋(没有AI)](http://ccforward.github.io/game/chess/chess.html)
 * [URL分析](https://github.com/ccforward/cc/tree/master/URLParse)
 * [RGB颜色转换为HEX颜色](https://github.com/ccforward/cc/tree/master/RGB2HEX)
