@@ -3,9 +3,11 @@
 ## 1、Blog：[戳这儿](https://github.com/ccforward/cc/issues?q=is%3Aopen)
 
 ## 2、仓库
-* Material Design 风格 Vue.js UI 组件库 [Rubik UI](https://github.com/ccforward/rubik)  
-  [npm地址](https://www.npmjs.com/package/i-rubik)  
-  [Demo 地址](https://ccforward.github.io/rubik/) 
+* Material Design 风格的 Vue.js UI 组件库 [Rubik UI](https://github.com/ccforward/rubik)  
+  [npm地址](https://www.npmjs.com/package/i-rubik) 
+  [Demo 地址](https://ccforward.github.io/rubik/)
+* [知乎日报爬虫 Node.js+Vue.js](https://github.com/ccforward/zhihu)  
+  [线上地址](http://zhihu.ccforward.net)  
 * 日期计算模块，主要用于知乎日报爬虫项目 [date-calc](https://github.com/ccforward/date-calc)  
   [npm地址](https://www.npmjs.com/package/date-calc)
 * 自定义事件库 for Broswer & Node.js [EventFire](https://github.com/ccforward/EventFire)  
