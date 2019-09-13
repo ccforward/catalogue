@@ -56,7 +56,8 @@
 
 
 ### CSS
-* [css 文字闪光](https://github.com/ccforward/cc/blob/master/css3/shning-text.html)
+* [css 菜单文字填充](https://github.com/ccforward/cc/blob/master/css3/menu-fill-hover.html)
+* [css 文字闪光](https://github.com/ccforward/cc/blob/master/css3/shining-text.html)
 * [css 按钮闪光](https://github.com/ccforward/cc/blob/master/css3/shining-button.html)
 * [css wave](https://github.com/ccforward/cc/blob/master/css3/wave.html)
 * [一行代码调试CSS Layout Debug](https://github.com/ccforward/cc/issues/3)
