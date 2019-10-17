@@ -41,6 +41,9 @@
 ## 3、代码库
 ### 小工具集合
 * [tools](https://github.com/ccforward/cc/tree/master/tools)
+  * 截取中文字符创
+  * 数字转中文数字
+  * webp检测
 
 ### JS
 * [滚动视差动画](https://github.com/ccforward/cc/tree/master/parallax)
