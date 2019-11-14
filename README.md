@@ -40,6 +40,8 @@
 
 ## 3、代码库
 ### JS
+* [滚动视差动画](https://github.com/ccforward/cc/tree/master/parallax)
+* [可联机玩的五子棋](https://github.com/ccforward/cc/tree/master/chess)
 * [可联机玩的五子棋](https://github.com/ccforward/cc/tree/master/chess)
 * [Vue.js 五子棋(没有AI)](http://ccforward.github.io/game/chess/chess.html)
 * [URL分析](https://github.com/ccforward/cc/tree/master/URLParse)
