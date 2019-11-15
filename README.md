@@ -39,6 +39,9 @@
 	* input输入过滤组件(不再维护) [inputFilter](https://github.com/ccforward/inputFilter)
 
 ## 3、代码库
+### 小工具集合
+* [tools](https://github.com/ccforward/cc/tree/master/tools)
+
 ### JS
 * [滚动视差动画](https://github.com/ccforward/cc/tree/master/parallax)
 * [可联机玩的五子棋](https://github.com/ccforward/cc/tree/master/chess)
