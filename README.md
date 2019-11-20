@@ -46,6 +46,7 @@
   * webp检测
 
 ### JS
+* [随机数生成工具](https://github.com/ccforward/cc/tree/master/random-js)
 * [滚动视差动画](https://github.com/ccforward/cc/tree/master/parallax)
 * [可联机玩的五子棋](https://github.com/ccforward/cc/tree/master/chess)
 * [可联机玩的五子棋](https://github.com/ccforward/cc/tree/master/chess)
