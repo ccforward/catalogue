@@ -65,6 +65,7 @@
 
 
 ### CSS
+* [渐变环形阴影动画](https://github.com/ccforward/cc/blob/master/css3/gradient-shadow.html)
 * [3D css Book](https://github.com/ccforward/cc/blob/master/css3/book.html)
 * [css mask property](https://github.com/ccforward/cc/blob/master/css3/css-mask.html)
 * [字幕菜单](https://github.com/ccforward/cc/blob/master/css3/text-menu.html)
