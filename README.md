@@ -65,6 +65,8 @@
 
 
 ### CSS
+* [文字超出后滚动](https://github.com/ccforward/cc/blob/master/css3/text-overflow-move.html)
+* [倒序列表](https://github.com/ccforward/cc/blob/master/css3/order-list.html)
 * [sushi cards](https://github.com/ccforward/cc/blob/master/css3/sushi-cards.html)
 * [二进制动画](https://github.com/ccforward/cc/blob/master/css3/css-binary.html)
 * [渐变环形阴影动画](https://github.com/ccforward/cc/blob/master/css3/gradient-shadow.html)
