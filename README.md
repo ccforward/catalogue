@@ -66,6 +66,7 @@
 
 
 ### CSS
+* [Polygon Text](https://github.com/ccforward/cc/blob/master/css3/shadow.html)
 * [box-shadow vs drop-shadow](https://github.com/ccforward/cc/blob/master/css3/shadow.html)
 * [css mario](https://github.com/ccforward/cc/blob/master/css3/mario.html)
 * [文字层叠阴影动画](https://github.com/ccforward/cc/blob/master/css3/chicken.html)
