@@ -6,6 +6,7 @@
 
 
 ## 2、仓库
+* 基于 Electron 的 GitHub & JSDelivr 图床 CDN [Electron-GitHub-CDN](https://github.com/ccforward/electron-github-cdn)
 * Material Design 风格的 Vue.js UI 组件库 [Rubik UI](https://github.com/ccforward/rubik)
   * [npm地址](https://www.npmjs.com/package/i-rubik)
   * [Demo 地址](https://ccforward.github.io/rubik/)
