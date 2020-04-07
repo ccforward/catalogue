@@ -67,6 +67,7 @@
 
 
 ### CSS
+* [彩色渐变文字](https://github.com/ccforward/cc/blob/master/css3/colorful-text.html)
 * [Polygon Text](https://github.com/ccforward/cc/blob/master/css3/shadow.html)
 * [box-shadow vs drop-shadow](https://github.com/ccforward/cc/blob/master/css3/shadow.html)
 * [css mario](https://github.com/ccforward/cc/blob/master/css3/mario.html)
