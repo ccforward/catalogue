@@ -68,6 +68,7 @@
 
 
 ### CSS
+* [shape-outside 属性](https://github.com/ccforward/cc/blob/master/text-css-shape)
 * [Drag Drop](https://github.com/ccforward/cc/blob/master/css3/drag-drop.html)
 * [Full Moon](https://github.com/ccforward/cc/blob/master/css3/full-moon.html)
 * [Avatar Animate](https://github.com/ccforward/cc/blob/master/css3/avatar-animation.html)
