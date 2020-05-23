@@ -69,6 +69,7 @@
 
 
 ### CSS
+* [slide sign in/up](https://github.com/ccforward/cc/blob/master/css3/signin-up.html)
 * [划船](https://github.com/ccforward/cc/blob/master/css3/summer.html)
 * [shape-outside 属性](https://github.com/ccforward/cc/tree/master/shape-outside)
 * [Drag Drop](https://github.com/ccforward/cc/blob/master/css3/drag-drop.html)
