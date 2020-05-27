@@ -69,6 +69,7 @@
 
 
 ### CSS
+* [back to top animation](https://github.com/ccforward/cc/blob/master/css3/scroll-back-top.html)
 * [css awesome](https://github.com/ccforward/cc/blob/master/css3/awesome.html)
 * [slide sign in/up](https://github.com/ccforward/cc/blob/master/css3/signin-up.html)
 * [划船](https://github.com/ccforward/cc/blob/master/css3/summer.html)
