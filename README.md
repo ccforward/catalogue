@@ -71,6 +71,7 @@
 ### Loader
 
 * [css_loader_1](https://github.com/ccforward/cc/blob/master/css3/loader_1.html)
+* * [css_loader_2](https://github.com/ccforward/cc/blob/master/css3/loader_2.html)
 
 ### CSS
 * [back to top animation](https://github.com/ccforward/cc/blob/master/css3/scroll-back-top.html)
