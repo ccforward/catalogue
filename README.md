@@ -74,6 +74,7 @@
 * * [css_loader_2](https://github.com/ccforward/cc/blob/master/css3/loader_2.html)
 
 ### CSS
+* [css facebook emoji](https://github.com/ccforward/cc/blob/master/css3/facebook_emoji.html)
 * [back to top animation](https://github.com/ccforward/cc/blob/master/css3/scroll-back-top.html)
 * [css awesome](https://github.com/ccforward/cc/blob/master/css3/awesome.html)
 * [slide sign in/up](https://github.com/ccforward/cc/blob/master/css3/signin-up.html)
