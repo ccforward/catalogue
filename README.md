@@ -73,6 +73,7 @@
 * [css_loader_1](https://github.com/ccforward/cc/blob/master/css3/loader_1.html)
 * [css_loader_2](https://github.com/ccforward/cc/blob/master/css3/loader_2.html)
 * [css_loader_3](https://github.com/ccforward/cc/blob/master/css3/loader_3.html)
+* [css_loader_4](https://github.com/ccforward/cc/blob/master/css3/loader_4.html)
 
 ### CSS
 * [text-emphasis](https://github.com/ccforward/cc/blob/master/css3/text-emphasis.html)
