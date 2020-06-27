@@ -78,6 +78,7 @@
 ### CSS Glich
 * [css_glich_1](https://github.com/ccforward/cc/blob/master/css3/glich_1.html)
 * [css_glich_2](https://github.com/ccforward/cc/blob/master/css3/glich_2.html)
+* [css_glich_3](https://github.com/ccforward/cc/blob/master/css3/glich_3.html)
 
 ### CSS
 * [text-emphasis](https://github.com/ccforward/cc/blob/master/css3/text-emphasis.html)
