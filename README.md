@@ -41,6 +41,7 @@
 ## 3、代码库
 ### 小工具集合
 * [tools](https://github.com/ccforward/cc/tree/master/tools)
+  * Github 资源替换为 jsdelivr
   * 截取中文字符创
   * 数字转中文数字
   * webp检测
